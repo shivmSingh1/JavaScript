@@ -1,0 +1,30 @@
+@media screen and (max-width:990px){
+
+    .listSpace {
+        display: none;
+    }
+
+    .navbar-collapse{
+        margin-right: 10px;
+        gap: 5px;
+        display: flex;
+        justify-content: end;
+    }
+    .logo{
+        margin: 0px 5px 0px 0px;
+        width: 100px;
+        height: 70px;
+    }
+
+   #categories{
+    border: 1px solid black;
+    height: 32px;
+    padding: 5px;
+   }
+
+   .dropdown{
+    display: contents;
+   }
+
+
+}
